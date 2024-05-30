@@ -1,3 +1,22 @@
-body {
-
+body{
+  background-color: #79AE95;
+    font-family:Lucida Bright;
+}
+h1{
+  color: white;
+}
+u1{
+  text-align: center;
+  list-style: none;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 30px;
+  color: white;
+}
+li a:hover{
+  background-color: #5D9279
+}
 }
