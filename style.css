@@ -5,6 +5,14 @@ body{
 h1{
   color: white;
 }
+img{
+  scale: 30%;
+  
+}
+p{
+  color: white;
+  font-size:300%;
+}
 u1{
   text-align: center;
   list-style: none;
@@ -18,5 +26,4 @@ li a{
 }
 li a:hover{
   background-color: #5D9279
-}
 }
